@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 BTech CSE Student | Full Stack Developer | DSA Enthusiast
+###  BTech CSE Student | Machine Learning | Android App Development | Full Stack Developer | DSA Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+MERN+%7C+Android+Developer;DSA+%26+Problem+Solving+Enthusiast;Building+Projects+That+Matter" alt="Typing SVG" />
 
@@ -13,8 +13,7 @@
 ## 🧑‍💻 About Me
 
 * 🎓 Pursuing **BTech in Computer Science Engineering**
-* 💡 Passionate about **Full Stack Development, Android Development & DSA**
-* ⚛️ Currently working with **React, Tailwind CSS, MERN Stack**
+* 💡 Passionate about **Machine Learning, Android Development,DSA,Full Stack Development**
 * 📱 Exploring **Android App Development**
 * 🧠 Interested in **Machine Learning & System Design**
 * 🚀 Building impactful projects and improving problem-solving skills daily
@@ -119,14 +118,11 @@
 # 🧠 LeetCode & Coding Profiles
 
 <p align="left">
-<a href="https://leetcode.com/your-username">
+<a href="https://leetcode.com/yosobanta">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-<a href="https://www.codechef.com/users/your-username">
+<a href="https://www.codechef.com/users/yosobanta2005">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-<a href="https://codeforces.com/profile/your-username">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 </p>
 

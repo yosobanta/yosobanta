@@ -97,9 +97,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosobanta&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosobanta&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -124,6 +124,9 @@
 <a href="https://www.codechef.com/users/yosobanta2005">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
+<a href="https://www.geeksforgeeks.org/profile/yosobanta_05">
+<img src="https://img.shields.io/badge/Geeksforgeeks-5B4638?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -132,7 +135,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yosobanta&theme=tokyo-night&hide_border=true" />
 
 </div>
 
